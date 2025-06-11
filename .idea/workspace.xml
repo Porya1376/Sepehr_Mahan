@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6578f17b-2807-419e-9cb0-277d0d6109bd" name="Changes" comment="today's last commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Porya1376&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Porya1376/Sepehr_Mahan.git&quot;,
+    &quot;accountId&quot;: &quot;aa157917-a071-4695-bfa9-ac6300ed98f6&quot;
+  }
+}</component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2yET13KIOvkPPaOzjVmIpHpYoPY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/xampp/htdocs/sepehr_mahan",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sepehr_mahan\storage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sepehr_mahan\includes" />
+      <recent name="C:\xampp\htdocs\sepehr_mahan" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6578f17b-2807-419e-9cb0-277d0d6109bd" name="Changes" comment="" />
+      <created>1749398514713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749398514713</updated>
+      <workItem from="1749398515962" duration="5605000" />
+      <workItem from="1749404422238" duration="16208000" />
+      <workItem from="1749456374138" duration="27653000" />
+      <workItem from="1749507024797" duration="437000" />
+      <workItem from="1749507587264" duration="34000" />
+      <workItem from="1749538814312" duration="13363000" />
+      <workItem from="1749567404052" duration="1159000" />
+      <workItem from="1749568828914" duration="847000" />
+      <workItem from="1749570433292" duration="2744000" />
+      <workItem from="1749630858961" duration="7493000" />
+      <workItem from="1749640516402" duration="622000" />
+      <workItem from="1749641421925" duration="828000" />
+      <workItem from="1749657211392" duration="112000" />
+      <workItem from="1749657439259" duration="247000" />
+      <workItem from="1749657800237" duration="211000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1749570562088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749570562088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749638232462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749638232462</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749639188119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749639188119</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749639312847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749639312847</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749639637121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749639637121</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749639792625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749639792625</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749639939369</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749639939369</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749640091089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749640091089</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit 2">
+      <option name="closed" value="true" />
+      <created>1749640315706</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749640315706</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial Commit2">
+      <option name="closed" value="true" />
+      <created>1749640446779</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749640446779</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial Commit2">
+      <option name="closed" value="true" />
+      <created>1749640909876</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749640909876</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Today's initial commit">
+      <option name="closed" value="true" />
+      <created>1749641010767</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749641010767</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Initial commit 2" />
+    <MESSAGE value="Initial Commit2" />
+    <MESSAGE value="Today's initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today's initial commit" />
+  </component>
+</project>
