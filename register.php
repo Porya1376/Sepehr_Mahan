@@ -44,33 +44,35 @@ if ($_POST) {
 
 </head>
 <body>
+<div class="container mt-5">
 
-<?php
-if (isset($_GET["error"])) {
-    echo '<h4 class="alert alert-danger">'.$_GET["error"].'</h4>';
-}
-?>
+    <?php
+    if (isset($_GET["error"])) {
+        echo '<div class="alert alert-danger">'.htmlspecialchars($_GET["error"]).'</div>';
+    }
+    ?>
 
-<form class="form" action="register.php" method="post">
+    <form class="form" action="register.php" method="post">
+        <div class="form-group mb-3">
+            <label for="username">Username</label>
+            <input type="text" name="username" class="form-control" required>
+        </div>
+        <div class="form-group mb-3">
+            <label for="password">Password</label>
+            <input type="password" name="password" class="form-control" required>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Register" class="btn btn-primary">
+        </div>
+    </form>
 
-    <div class="form-group">
-        <label for="username">Username</label>
-        <input type="text" name="username" class="form-control">
-    </div>
-    <div class="form-group">
-        <label for="pass">Password</label>
-        <input type="text" name="password" class="form-control">
-    </div>
-
-    <div class="form-group">
-        <input type="submit"  value="register" class="btn btn-success">
-    </div>
+</div>
 
 </form>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
-        crossorigin="anonymous"></script
+        crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </body>
 </html>

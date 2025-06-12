@@ -39,30 +39,34 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
     <link rel="stylesheet" href="includes/css/style.css">
 </head>
 <body>
-<?php
-if (isset($_GET["error"])) {
-    echo '<h4 class="alert alert-danger">' . $_GET["error"] . '</h4>';
-}
-?>
+<div class="container mt-5">
+    <?php
+    if (isset($_GET["error"])) {
+        echo '<h4 class="alert alert-danger">' . $_GET["error"] . '</h4>';
+    }
+    ?>
 
-<form class="form" action="login.php" method="post">
+    <form class="form" action="login.php" method="post">
 
-    <div class="form-group">
-        <label for="username">Username</label>
-        <input type="text" name="username" class="form-control">
-    </div>
-    <div class="form-group">
-        <label for="pass">Password</label>
-        <input type="text" name="password" class="form-control">
-    </div>
-    <div class="form-group">
-        <input type="submit" name="login" value="Login" class="btn btn-success">
-    </div>
-</form>
+        <div class="form-group mb-3">
+            <label for="username">Username</label>
+            <input type="text" name="username" class="form-control">
+        </div>
+        <div class="form-group mb-3">
+            <label for="pass">Password</label>
+            <input type="password" name="password" class="form-control">
+        </div>
+        <div class="form-group">
+            <input type="submit" name="login" value="Login" class="btn btn-primary">
+        </div>
+    </form>
+
+
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
-        crossorigin="anonymous"></script
+        crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </body>
 </html>
