@@ -182,7 +182,7 @@ if ($stmt->execute() && $user = $stmt->get_result()->fetch_assoc()) {
 <!--edit-->
 <script>
     function editPost(id) {
-        // ارسال درخواست AJAX به get_post.php برای دریافت اطلاعات پست
+        // Send an AJAX request to get_post.php to retrieve post data
         $.get('get_post.php', { id }, function(post) {
             $('#editPostId').val(post.id);
             $('#editTitle').val(post.title);
